@@ -1,8 +1,4 @@
-# Hey there! I'm Pranav Powar 👋
-
 ### Aspiring Data Analyst | SQL | Excel | Power BI | Tableau
-
-Welcome to my GitHub profile!
 
 I'm passionate about exploring data, identifying patterns, and turning raw information into meaningful insights. I enjoy using data analytics tools to understand business performance and present findings through visualizations.
 
@@ -58,10 +54,3 @@ A data analytics project focused on analyzing sales data to understand business 
 - Exploratory data analysis using Python.
 - Dashboard development and visualization.
 - Understanding sales trends and profitability.
-
-## 📫 Connect With Me
-
-- **Email:** [pranavpowar05@gmail.com](mailto:pranavpowar05@gmail.com)
-- **GitHub:** [Pranav Powar](https://github.com/)
-
-⭐ Thanks for visiting my profile!
