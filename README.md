@@ -1,10 +1,10 @@
-### Aspiring Data Analyst | SQL | Excel | Power BI | Tableau
+### Adventure Works Sales Analysis
 
-I'm passionate about exploring data, identifying patterns, and turning raw information into meaningful insights. I enjoy using data analytics tools to understand business performance and present findings through visualizations.
+## Project Overview
 
-I'm continuously learning and building practical projects to improve my analytical and technical skills.
+This project focuses on analyzing Adventure Works sales data using SQL (MySQL), Microsoft Excel, Power BI, and Tableau. The goal is to explore sales performance, identify business trends, and generate meaningful insights through data analysis and interactive dashboards.
 
-## 💻 Technical Skills
+## 💻 Tools & Technologies
 
 - **SQL (MySQL):** Joins, Subqueries, Aggregate Functions, Date Functions, Data Analysis
 - **Microsoft Excel:** Data Cleaning, Pivot Tables, Data Analysis, Dashboards
@@ -48,7 +48,7 @@ A data analytics project focused on analyzing sales data to understand business 
 - **Power BI:** Interactive reports and dashboards.
 - **Tableau:** Sales analysis dashboards.
 
-🎯 Key Learning Outcomes
+## 🎯 Key Learning Outcomes
 - Data cleaning and transformation.
 - SQL querying and data manipulation.
 - Exploratory data analysis using Python.
